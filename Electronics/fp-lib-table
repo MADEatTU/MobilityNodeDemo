@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Controller-Local)(type KiCad)(uri /Users/davidwright/repositories/MADEATTU/Controller/Controller)(options "")(descr ""))
+)
