@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Controller-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -64,7 +63,7 @@ U 1 1 5C2D251F
 P 2800 900
 F 0 "D3" H 2800 684 50  0000 C CNN
 F 1 "D_Schottky" H 2800 775 50  0000 C CNN
-F 2 "Diode_SMD:D_SMB-SMC_Universal_Handsoldering" H 2800 900 50  0001 C CNN
+F 2 "Diode_SMD:D_SMA_Handsoldering" H 2800 900 50  0001 C CNN
 F 3 "~" H 2800 900 50  0001 C CNN
 	1    2800 900 
 	-1   0    0    1   
@@ -868,7 +867,7 @@ U 1 1 5C2EB27F
 P 2500 2950
 F 0 "J3" H 2473 2830 50  0000 R CNN
 F 1 "Conn_01x02_Male" H 2473 2921 50  0000 R CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 2500 2950 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 2950 50  0001 C CNN
 F 3 "~" H 2500 2950 50  0001 C CNN
 	1    2500 2950
 	-1   0    0    1   
